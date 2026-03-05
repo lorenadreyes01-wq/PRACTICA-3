@@ -12,9 +12,9 @@ Ayuda a Camila y Diego a crear una herramienta digital que les permita realizar 
 # Instrucciones:
 Crea una función en Python llamada exchange_money que reciba dos parámetros:
 
-budget: la cantidad de dinero en la moneda original que desean cambiar.
+***budget: la cantidad de dinero en la moneda original que desean cambiar.***
 
-exchange_rate: la tasa de cambio correspondiente al país donde se encuentren.
+***exchange_rate: la tasa de cambio correspondiente al país donde se encuentren.***
 
 La función debe devolver el valor equivalente en la moneda extranjera.
 
